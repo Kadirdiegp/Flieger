@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Start",
+    "shop": "Shop",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Premium Streetwear, designed in Deutschland"
+    },
+    "featured": {
+      "title": "Premium Hoodie 2024",
+      "description": "Unser meistverkaufter Hoodie in einer neuen, limitierten Edition. Hergestellt aus 100% Bio-Baumwolle und mit unserem charakteristischen Design.",
+      "cta": "Jetzt kaufen"
+    },
+    "collections": {
+      "title": "Kollektionen",
+      "hoodies": "Hoodies",
+      "tshirts": "T-Shirts",
+      "pants": "Hosen"
+    }
+  },
+  "shop": {
+    "filters": {
+      "title": "Filter",
+      "price": "Preis",
+      "size": "Größe",
+      "color": "Farbe",
+      "sort": {
+        "title": "Sortieren nach",
+        "newest": "Neueste",
+        "priceAsc": "Preis aufsteigend",
+        "priceDesc": "Preis absteigend",
+        "popularity": "Beliebtheit"
+      }
+    }
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "addToWishlist": "Zur Wunschliste hinzufügen",
+    "sizeGuide": "Größentabelle",
+    "inStock": "Auf Lager",
+    "outOfStock": "Ausverkauft",
+    "description": "Beschreibung",
+    "details": "Details",
+    "shipping": "Versand",
+    "returns": "Rückgabe"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Dein Warenkorb ist leer",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse"
+  },
+  "wishlist": {
+    "title": "Wunschliste",
+    "empty": "Deine Wunschliste ist leer",
+    "addToCart": "In den Warenkorb"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "subtitle": "Melde dich für unseren Newsletter an und erhalte 10% Rabatt auf deine erste Bestellung",
+    "placeholder": "Deine E-Mail Adresse",
+    "button": "Anmelden",
+    "success": "Vielen Dank für deine Anmeldung!",
+    "error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut."
+  },
+  "cookie": {
+    "title": "Cookie-Einstellungen",
+    "message": "Wir verwenden Cookies, um dir die bestmögliche Erfahrung auf unserer Website zu bieten.",
+    "accept": "Alle akzeptieren",
+    "essential": "Nur essenzielle Cookies",
+    "more": "Mehr erfahren"
+  }
+}
